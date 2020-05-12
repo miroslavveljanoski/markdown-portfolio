@@ -1,0 +1,1 @@
+I'm **Miroslav**, and I'm learning to be a **web developer** and gain some _programming skills_. Even though I have some basic knowledge with **HTML** and **CSS**, I"m relly confused with _Git_ and _Github_. I hope that I will become _better_ in the future.
